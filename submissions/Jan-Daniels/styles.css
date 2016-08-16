@@ -1,0 +1,46 @@
+p, footer {
+	background-color: Aqua;
+	background-position: center;
+	margin: 50px;
+	padding: 0.25cm;
+}
+h1 {
+	background-color: Silver;
+	width: 500px;
+	text-align: center;
+}
+ul {
+	list-style-type: none;
+}
+.get-centered {
+	text-align: center;
+}
+.small-image {
+	width: 25%;
+	height: 25%;
+	padding: 20px 0px;
+	display: inline-block;
+}
+.thin-black-border {
+	border-color: black;
+	border-width: 5px;
+	border-style: solid;
+}
+.photo-border {
+	border-color: black;
+	border-width: 5px;
+	border-style: solid;
+	border-radius: 30%;
+}
+#current-status {
+	color: blue;
+
+}
+div {
+	display: inline;
+	text-align: bottom;
+	align: center;
+}
+figcaption {
+	align: center;
+}
